@@ -1,6 +1,4 @@
 
-
-```markdown
 # Chase and Blaze
 
 **Chase and Blaze** is a 3D car combat survival game built with Python and PyOpenGL. Drive, boost, and fire missiles while dodging enemy cars in a city arena. The game features AI chasers, power-ups, multiple levels, health and score systems, explosive effects, and a dynamic HUD for an action-packed gameplay experience.
@@ -109,3 +107,4 @@ Feel free to fork, modify, and contribute!
 ```
 
 You can copy and paste this markdown into your `readme.md` file. If you need any edits or want to add images/screenshots, let me know!
+
